@@ -1,4 +1,4 @@
-# Churn Analysis Project
+# Customer Churn Analysis Project
 
 ## 📊 Overview
 This project focuses on customer churn analysis using SQL, Python, Power BI, and Excel. The objective is to identify patterns in customer behavior and predict churn using data analysis techniques.
